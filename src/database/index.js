@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 
+//!Variavel de ambiente
 require('../../.env');
 
 mongoose.connect(DATABASE, {
