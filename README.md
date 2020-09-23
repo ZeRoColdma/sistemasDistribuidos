@@ -1,7 +1,7 @@
 # sistemasDistribuidos
 
-#Equipe
+## Equipe
 
-#Carlos Alberto Silva Junior
+### Carlos Alberto Silva Junior
 
-#Carlos Henrique Menezes Coelho Lopes
+### Carlos Henrique Menezes Coelho Lopes
